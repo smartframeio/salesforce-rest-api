@@ -1,9 +1,9 @@
 {
-  "name": "gmo/salesforce-rest-api",
+  "name": "smartframeio/salesforce-rest-api",
   "license": "MIT",
   "require": {
-    "psr/log": "1.0.0",
-    "guzzlehttp/guzzle": "6.2",
+    "psr/log": "*",
+    "guzzlehttp/guzzle": "*",
     "php": ">=5.3"
   },
   "autoload": {
